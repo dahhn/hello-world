@@ -1,2 +1,2 @@
 # hello-world
-I'm learning every day.
+Learn something every day, apply something every week.
